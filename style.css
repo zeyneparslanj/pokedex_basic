@@ -69,6 +69,10 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: rgb(0, 83, 226);
+  font-size: var(--h1-font);
+
+
 }
 
 header h1 {
