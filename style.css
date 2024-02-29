@@ -71,6 +71,9 @@ header {
   align-items: center;
   color: rgb(0, 83, 226);
   font-size: var(--h1-font);
+
+  /* font-size: var(--h2-font); */
+
   /* font-size: var(--h1-font); */
 
 
